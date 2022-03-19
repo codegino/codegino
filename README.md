@@ -16,6 +16,11 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Remix Search Engine Optimization](https://codegino.com/blog/remix-seo)
+- [How to make your web pages appear in Google Search results](https://codegino.com/blog/adding-webpage-to-google-search-results)
+- [Lighthouse Best Practices Cheat Sheet](https://codegino.com/blog/lighthouse-best-practices)
+- [Search Engine Optimization Cheat Sheet](https://codegino.com/blog/improve-website-seo)
+- [Web Accessibility Cheat Sheet](https://codegino.com/blog/improve-website-accessibility)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
