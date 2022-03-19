@@ -14,7 +14,7 @@
 
 - 📄 Know about my experiences [https://codegino.com/resume](https://codegino.com/resume)
 
-### Blogs posts
+### Recent blog posts
 <!-- BLOG-POST-LIST:START -->
 - [Remix Search Engine Optimization](https://codegino.com/blog/remix-seo)
 - [How to make your web pages appear in Google Search results](https://codegino.com/blog/adding-webpage-to-google-search-results)
