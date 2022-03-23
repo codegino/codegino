@@ -16,6 +16,7 @@
 
 ### Recent blog posts
 <!-- BLOG-POST-LIST:START -->
+- [NextJS i18n/Internationalization](https://codegino.com/blog/nextjs-i18n)
 - [Remix Search Engine Optimization](https://codegino.com/blog/remix-seo)
 - [How to make your web pages appear in Google Search results](https://codegino.com/blog/adding-webpage-to-google-search-results)
 - [Lighthouse Best Practices Cheat Sheet](https://codegino.com/blog/lighthouse-best-practices)
@@ -25,7 +26,6 @@
 - [How to handle errors gracefully in Remix](https://codegino.com/blog/remix-error-handling)
 - [Screpy - Website analysis tool](https://codegino.com/blog/screpy-review)
 - [Remix and Supabase Authentication](https://codegino.com/blog/remix-supabase-auth)
-- [Styling Remix using Tailwind and PostCSS](https://codegino.com/blog/remix-styling-tailwind-postcss)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
