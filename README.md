@@ -16,6 +16,9 @@
 
 ### Recent blog posts
 <!-- BLOG-POST-LIST:START -->
+- [How JavaScript hoisting actually works](https://codegino.com/blog/javascript-hoisting)
+- [Sync React application state with the URL](https://codegino.com/blog/react-sync-state-with-url)
+- [How to fetch NFT collection using JavaScript and OpenSea API](https://codegino.com/blog/fetching-opensea-collection)
 - [NextJS i18n/Internationalization](https://codegino.com/blog/nextjs-i18n)
 - [Remix Search Engine Optimization](https://codegino.com/blog/remix-seo)
 - [How to make your web pages appear in Google Search results](https://codegino.com/blog/adding-webpage-to-google-search-results)
@@ -23,9 +26,6 @@
 - [Search Engine Optimization Cheat Sheet](https://codegino.com/blog/improve-website-seo)
 - [Web Accessibility Cheat Sheet](https://codegino.com/blog/improve-website-accessibility)
 - [Web Performance Cheat Sheet](https://codegino.com/blog/improve-website-performance)
-- [How to handle errors gracefully in Remix](https://codegino.com/blog/remix-error-handling)
-- [Screpy - Website analysis tool](https://codegino.com/blog/screpy-review)
-- [Remix and Supabase Authentication](https://codegino.com/blog/remix-supabase-auth)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
