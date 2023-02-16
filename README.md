@@ -16,6 +16,7 @@
 
 ### Recent blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Svelte and Tailwind for Chrome Extension](https://codegino.com/blog/svelte-chromium-extension)
 - [How JavaScript hoisting actually works](https://codegino.com/blog/javascript-hoisting)
 - [Sync React application state with the URL](https://codegino.com/blog/react-sync-state-with-url)
 - [How to fetch NFT collection using JavaScript and OpenSea API](https://codegino.com/blog/fetching-opensea-collection)
@@ -25,7 +26,6 @@
 - [Lighthouse Best Practices Cheat Sheet](https://codegino.com/blog/lighthouse-best-practices)
 - [Search Engine Optimization Cheat Sheet](https://codegino.com/blog/improve-website-seo)
 - [Web Accessibility Cheat Sheet](https://codegino.com/blog/improve-website-accessibility)
-- [Web Performance Cheat Sheet](https://codegino.com/blog/improve-website-performance)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
