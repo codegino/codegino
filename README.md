@@ -16,16 +16,16 @@
 
 ### Recent blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Svelte and Tailwind for Chrome Extension](https://codegino.com/blog/svelte-chromium-extension)
-- [How JavaScript hoisting actually works](https://codegino.com/blog/javascript-hoisting)
-- [Sync React application state with the URL](https://codegino.com/blog/react-sync-state-with-url)
-- [How to fetch NFT collection using JavaScript and OpenSea API](https://codegino.com/blog/fetching-opensea-collection)
-- [NextJS i18n/Internationalization](https://codegino.com/blog/nextjs-i18n)
-- [Remix Search Engine Optimization](https://codegino.com/blog/remix-seo)
-- [How to make your web pages appear in Google Search results](https://codegino.com/blog/adding-webpage-to-google-search-results)
-- [Lighthouse Best Practices Cheat Sheet](https://codegino.com/blog/lighthouse-best-practices)
-- [Search Engine Optimization Cheat Sheet](https://codegino.com/blog/improve-website-seo)
-- [Web Accessibility Cheat Sheet](https://codegino.com/blog/improve-website-accessibility)
+- [Building a multilingual NextJS app using the new app directory](https://carlogino.com/blog/nextjs13-i18n)
+- [Next.js and OpenAI Text Completion](https://carlogino.com/blog/openai-nextjs-text-completion)
+- [Synchronize Chrome Extensions state](https://carlogino.com/blog/svelte-chromium-extension-sync-states)
+- [Add an Options Page to Chrome Extension](https://carlogino.com/blog/svelte-chromium-extension-options)
+- [Svelte and Tailwind for Chrome Extension](https://carlogino.com/blog/svelte-chromium-extension)
+- [How JavaScript hoisting actually works](https://carlogino.com/blog/javascript-hoisting)
+- [Sync React application state with the URL](https://carlogino.com/blog/react-sync-state-with-url)
+- [How to fetch NFT collection using JavaScript and OpenSea API](https://carlogino.com/blog/fetching-opensea-collection)
+- [NextJS i18n/Internationalization](https://carlogino.com/blog/nextjs-i18n)
+- [Remix Search Engine Optimization](https://carlogino.com/blog/remix-seo)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
