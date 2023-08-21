@@ -16,7 +16,8 @@
 
 ### Recent blog posts
 <!-- BLOG-POST-LIST:START -->
-- [Building a multilingual NextJS app using the new app directory](https://carlogino.com/blog/nextjs13-i18n)
+- [Build a free link shortener with Next.js and Vercel Postgres](https://carlogino.com/blog/nextjs-vercel-link-shortener)
+- [Build a multilingual NextJS app using the new app directory](https://carlogino.com/blog/nextjs13-i18n)
 - [Next.js and OpenAI Text Completion](https://carlogino.com/blog/openai-nextjs-text-completion)
 - [Synchronize Chrome Extensions state](https://carlogino.com/blog/svelte-chromium-extension-sync-states)
 - [Add an Options Page to Chrome Extension](https://carlogino.com/blog/svelte-chromium-extension-options)
@@ -25,7 +26,6 @@
 - [Sync React application state with the URL](https://carlogino.com/blog/react-sync-state-with-url)
 - [How to fetch NFT collection using JavaScript and OpenSea API](https://carlogino.com/blog/fetching-opensea-collection)
 - [NextJS i18n/Internationalization](https://carlogino.com/blog/nextjs-i18n)
-- [Remix Search Engine Optimization](https://carlogino.com/blog/remix-seo)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
